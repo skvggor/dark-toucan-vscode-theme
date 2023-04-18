@@ -1,0 +1,21 @@
+{
+  "name": "dark-toucan-vscode-theme",
+  "version": "1.0.0",
+  "description": "Dark Toucan is a Visual Studio Code theme inspired by the vibrant colors of the toucan bird.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skvggor/dark-toucan-vscode-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "toucan",
+    "vscode"
+  ],
+  "author": "skvggor - http://skvgg.vercel.app",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skvggor/dark-toucan-vscode-theme/issues"
+  },
+  "homepage": "https://github.com/skvggor/dark-toucan-vscode-theme"
+}
