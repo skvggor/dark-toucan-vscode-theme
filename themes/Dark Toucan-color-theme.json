@@ -4,28 +4,28 @@
   "colors": {
     "activityBar.background": "#111111",
     "activityBar.foreground": "#666666",
-    "activityBarBadge.background": "#F0C674",
-    "activityBarBadge.foreground": "#1D1F21",
+    "activityBarBadge.background": "#f0c674",
+    "activityBarBadge.foreground": "#1d1f21",
     "editor.background": "#111111",
-    "editor.foreground": "#C5C8C6",
-    "editor.lineHighlightBackground": "#111123",
-    "editor.selectionBackground": "#373B41",
-    "editorCursor.foreground": "#F0C674",
+    "editor.foreground": "#c5c8c6",
+    "editor.lineHighlightBackground": "#000000",
+    "editor.selectionBackground": "#373b41",
+    "editorCursor.foreground": "#f0c674",
     "editorWhitespace.foreground": "#222222",
     "panel.border": "#111111",
     "sideBar.background": "#222222",
     "sideBar.border" : "#111111",
-    "sideBar.foreground": "#C5C8C6",
+    "sideBar.foreground": "#c5c8c6",
     "sideBarSectionHeader.background": "#111111",
-    "sideBarTitle.foreground": "#C5C8C6",
+    "sideBarTitle.foreground": "#c5c8c6",
     "statusBar.background": "#202225",
-    "statusBar.debuggingBackground": "#CC342B",
-    "statusBar.debuggingForeground": "#FFFFFF",
-    "statusBar.foreground": "#C5C8C6",
+    "statusBar.debuggingBackground": "#cc342b",
+    "statusBar.debuggingForeground": "#ffffff",
+    "statusBar.foreground": "#c5c8c6",
     "statusBar.noFolderBackground": "#202225",
-    "statusBar.noFolderForeground": "#C5C8C6",
+    "statusBar.noFolderForeground": "#c5c8c6",
     "tab.activeBackground": "#111111",
-    "tab.activeForeground": "#C5C8C6",
+    "tab.activeForeground": "#c5c8c6",
     "tab.border": "#111111",
     "tab.inactiveBackground": "#000000",
     "tab.inactiveForeground": "#666666",
@@ -60,7 +60,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "#B5BD68"
+        "foreground": "#f78141"
       }
     },
     {
@@ -69,7 +69,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#999999"
+        "foreground": "#ffffff"
       }
     },
     {
