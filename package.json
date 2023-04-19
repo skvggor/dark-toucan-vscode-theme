@@ -1,6 +1,6 @@
 {
   "name": "dark-toucan-vscode-theme",
-  "displayName": "dark-toucan-vscode-theme",
+  "displayName": "dark-toucan",
   "description": "Dark Toucan is a Visual Studio Code theme inspired by the vibrant colors of the toucan bird.",
   "version": "1.0.0",
   "engines": {
@@ -16,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Toucan Theme for Visual Studio Code",
+        "label": "Dark Toucan",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Toucan Theme for Visual Studio Code-color-theme.json"
+        "path": "./themes/Dark Toucan-color-theme.json"
       }
     ]
   }
