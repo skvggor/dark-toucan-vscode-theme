@@ -2,22 +2,17 @@
 
 Dark Toucan is a Visual Studio Code theme inspired by the vibrant colors of the toucan bird. The stunning mix of colors from a toucan's plumage creates a unique and visually appealing coding environment. This dark theme is designed to reduce eye strain while maintaining an enjoyable and engaging appearance.
 
+<p align="center">
+  <img src="./screenshot.png" alt="Dark Toucan Theme Screenshot" />
+</p>
+
 ## Installation
 
-To install and activate the Dark Toucan theme via the Visual Studio Code Marketplace, follow these steps:
+To install and activate the Dark Toucan theme, you can use one of the following method:
 
-1. Launch Visual Studio Code.
-2. Click on the Extensions view icon located on the side bar or press Ctrl+Shift+X (Windows/Linux) or Cmd+Shift+X (Mac) to open the Extensions view.
-3. Search for "Dark Toucan" in the search bar.
-4. Click on the "Install" button next to the Dark Toucan theme in the search results.
-5. After the installation is complete, click on the "Reload" button to reload Visual Studio Code.
-6. Press Ctrl+K Ctrl+T (Windows/Linux) or Cmd+K Cmd+T (Mac) to open the list of installed themes.
-7. Select "Dark Toucan" from the list to activate the theme.
-8. You can also install and activate the theme using the following command in the Command Palette:
-
-```bash
-ext install dark-toucan-vscode-theme
-```
+1. Click on the Extensions view icon located on the side bar or press Ctrl+Shift+X (Windows/Linux) or Cmd+Shift+X (Mac) to open the Extensions view.
+2. Search for "Dark Toucan" in the search bar.
+3. Click on the "Install" button next to the Dark Toucan theme in the search results.
 
 ## Manual installation
 
@@ -33,7 +28,7 @@ To install the Dark Toucan theme using the VSIX file, follow these steps:
 
 ## Buy me a beer 🍻
 
-If you enjoy using the Dark Toucan theme and want to show your appreciation, consider [buying me a beer](https://www.paypal.com/paypalme/marckfree?locale.x=en_US) through PayPal. Your support helps me continue creating and improving this theme. Cheers!
+If you enjoy using the Dark Toucan theme and want to show your appreciation, consider **buying me a beer** through **PayPal** (marckfree@gmail.com). Your support helps me continue creating and improving this theme. Cheers!
 
 ## About the Author
 
