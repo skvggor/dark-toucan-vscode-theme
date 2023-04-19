@@ -1,4 +1,4 @@
-# Dark Toucan
+<h1 align="center">Dark Toucan</h1>
 
 <p align="center">
   <img width="150" height="150" src="./icon.png" alt="Dark Toucan" />
