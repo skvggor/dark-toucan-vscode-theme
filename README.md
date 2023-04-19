@@ -1,10 +1,24 @@
-# Dark Toucan Theme for Visual Studio Code
+<h1 align="center">Dark Toucan</h1>
+
+<p align="center">
+  <img width="150" height="150" src="./icon.png" alt="Dark Toucan" />
+</p>
 
 Dark Toucan is a Visual Studio Code theme inspired by the vibrant colors of the toucan bird. The stunning mix of colors from a toucan's plumage creates a unique and visually appealing coding environment. This dark theme is designed to reduce eye strain while maintaining an enjoyable and engaging appearance.
 
-![Dark Toucan Theme Screenshot](./screenshot.png)
+<p align="center">
+  <img src="./screenshot.png" alt="Dark Toucan Theme Screenshot" />
+</p>
 
 ## Installation
+
+To install and activate the Dark Toucan theme, you can use one of the following method:
+
+1. Click on the Extensions view icon located on the side bar or press Ctrl+Shift+X (Windows/Linux) or Cmd+Shift+X (Mac) to open the Extensions view.
+2. Search for "Dark Toucan" in the search bar.
+3. Click on the "Install" button next to the Dark Toucan theme in the search results.
+
+## Manual installation
 
 To install the Dark Toucan theme using the VSIX file, follow these steps:
 
@@ -18,7 +32,7 @@ To install the Dark Toucan theme using the VSIX file, follow these steps:
 
 ## Buy me a beer 🍻
 
-If you enjoy using the Dark Toucan theme and want to show your appreciation, consider [buying me a beer](https://www.paypal.com/paypalme/marckfree?locale.x=en_US) through PayPal. Your support helps me continue creating and improving this theme. Cheers!
+If you enjoy using the Dark Toucan theme and want to show your appreciation, consider **buying me a beer** through **PayPal** (marckfree@gmail.com). Your support helps me continue creating and improving this theme. Cheers!
 
 ## About the Author
 
